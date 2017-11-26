@@ -1754,8 +1754,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a soomcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä soomcoin-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a soomcoin address (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Syötä soomcoin-osoite (esim. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1898,8 +1898,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Osoite, johon maksu lähetetään (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Osoite, johon maksu lähetetään (esim. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1928,8 +1928,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a soomcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä soomcoin-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a soomcoin address (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Syötä soomcoin-osoite (esim. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
 </context>
 <context>
@@ -1952,8 +1952,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2016,8 +2016,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i) </translation>
+        <source>The address the message was signed with (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg) </translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2032,8 +2032,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a soomcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä soomcoin-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a soomcoin address (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Syötä soomcoin-osoite (esim. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="-2"/>

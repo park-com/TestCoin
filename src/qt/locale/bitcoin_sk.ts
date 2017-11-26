@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a soomcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte soomcoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a soomcoin address (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Zadajte soomcoin adresu (napr. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1899,8 +1899,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa pre poslanie platby (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Adresa pre poslanie platby (napr. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a soomcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte soomcoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a soomcoin address (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Zadajte soomcoin adresu (napr. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
 </context>
 <context>
@@ -1953,8 +1953,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa na podpísanie správy (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Adresa na podpísanie správy (napr. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2017,8 +2017,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa správy bola podpísaná (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Adresa správy bola podpísaná (napr. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a soomcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte soomcoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a soomcoin address (e.g. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</source>
+        <translation>Zadajte soomcoin adresu (napr. Sa2itgTtySshi5zhHhZv1BdcP3tJe3QoUg)</translation>
     </message>
     <message>
         <location line="-2"/>
